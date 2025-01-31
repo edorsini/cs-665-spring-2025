@@ -24,12 +24,6 @@ This repository contains materials, examples, and exercises for the **Software D
   - Strategy
   - Template Method
 
-## How to Use This Repository
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/software-design-patterns.git
-   ```
-
 ## Prerequisites
 - Basic knowledge of **Object-Oriented Programming (OOP)**
 - Familiarity with **Java** 
